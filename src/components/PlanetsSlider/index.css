@@ -1,0 +1,36 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #333333;
+  height: 100vh;
+}
+.heading {
+  color: #05acff;
+}
+
+.slider-container {
+  background-color: transparent;
+  padding: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.planetContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.planetImg {
+  width: 300px;
+  height: 300px;
+}
+.planetName {
+  color: #ffffff;
+}
+.description {
+  color: #ffffff;
+}
